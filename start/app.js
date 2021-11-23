@@ -9,6 +9,7 @@
 | a new Adonis specific package, chances are you will register the
 | provider here.
 |
+ Me gusta la mota C:
 */
 const providers = [
   '@adonisjs/framework/providers/AppProvider',
